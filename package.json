@@ -1,0 +1,14 @@
+{
+  "name": "learn-javascript",
+  "version": "1.0.0",
+  "description": "soal 1 js",
+  "main": "soal1.js",
+  "scripts": {
+    "test": "node"
+  },
+  "keywords": [
+    "learnjs"
+  ],
+  "author": "hilmi",
+  "license": "ISC"
+}
