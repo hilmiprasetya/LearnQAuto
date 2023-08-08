@@ -1,3 +1,3 @@
-explore default function(){
+export default function(){
     console.log("test hello")
 }
