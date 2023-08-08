@@ -10,5 +10,11 @@
     "learnjs"
   ],
   "author": "hilmi",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "supertest": "^6.3.3"
+  },
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
 }
